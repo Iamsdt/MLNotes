@@ -26,10 +26,45 @@ We start with a random weight w and bias b and pass the value in equation wx + b
    
 ## Linear Regression
 
-Reference Video: 
-[Liner Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4)
+Reference Video:
+[Liner Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4) 
+
+Reference Video:
+[Linear Regression in Pytorch way](https://www.youtube.com/watch?v=113b7O3mabY)
 
 Reference article:
 [NoteBook](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
 
-Implement Linear Model [Code](/src/day1/LinearModel.ipnyb)
+Implement Linear Model
+[Code](https://github.com/Iamsdt/MLNotes/blob/master/src/day1/LinearModel.ipynb)
+
+## Gradient Descent
+
+Reference article:
+[NoteBook](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
+
+
+Reference Video: [Gradient
+Desecent](https://www.youtube.com/watch?v=b4Vyma9wPHo)
+
+Reference Video:
+[Udacity](https://www.youtube.com/watch?v=1j4bERmqmOU)
+
+Implement Linear Model
+[Code](https://github.com/Iamsdt/MLNotes/blob/master/src/day1/GradientDescent.ipynb)
+
+
+#### Extra
+How to Do Linear Regression using Gradient Descent:
+[Siraj Raval](https://www.youtube.com/watch?v=XdM6ER7zTLk)
+
+## Logistic Regression
+
+Reference Video:
+[Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo)
+
+Reference Video:
+[Logistic Regression: Andrew Nag](https://www.youtube.com/watch?v=-la3q9d7AKQ)
+
+Reference Video:
+[Binary Logistic Regression: Siraj Raval](https://www.youtube.com/watch?v=H6ii7NFdDeg)
