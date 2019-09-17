@@ -6,11 +6,17 @@
 
 ## Perception Algorithm
 
-A single perception can only be used to implement linearly separable functions. It takes both real and boolean inputs and associates a set of weights to them, along with a bias. And provide output in zero or one
+A single perception can only be used to implement linearly separable
+ functions. It takes both real and boolean inputs and associates 
+ a set of weights to them, along with a bias. 
+ And provide output in zero or one
 
 For perception algorithm is used to classify the linear relation.
-For instance we have number of student data set which contain pass and fail. And we want to classify them by a linear equation.
-We take a random line equation to classify. Now we move the line to get better fit.
+For instance we have number of student data set which 
+contain pass and fail. And we want to classify them by a 
+linear equation.
+We take a random line equation to classify. Now we move 
+the line to get better fit.
 
 #### Steps:
 We start with a random weight w and bias b and pass the value in equation wx + b
