@@ -1,6 +1,5 @@
 # Selecting Columns and Custom Slicing ndarray
 ### Select multiple specific columns
-
 ```
 cols = [1, 2, 5]
 data = data_np[:, cols]
@@ -21,12 +20,4 @@ data_np[1:4, 2]
 data_np[1:4, 2:4]
 ```
 
-# Calculating statistics of ndarray
-### Getting max of each row
-```
-data_np.max(axis=1)
-```
-### Getting max of each columns
-```
-data_np.max(axis=0)
-```
+
